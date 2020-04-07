@@ -1,0 +1,29 @@
+{
+  "name": "vqa_demo",
+  "version": "1.0.0",
+  "description": "Visual Question Answering ",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaaditya/VQA_Demo.git"
+  },
+  "author": "Utsav Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamaaditya/VQA_Demo/issues"
+  },
+  "homepage": "https://github.com/iamaaditya/VQA_Demo#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
+}
