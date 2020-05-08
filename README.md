@@ -18,8 +18,8 @@ The pre-trained Keras model is available at `public/newModel/model.h5`. It was c
 ## Setup
 
 ```
-git clone https://github.com/vzhou842/easy-VQA-demo.git
-cd easy-VQA-demo
+git clone https://github.com/Utsavjain4561/VQA.git
+cd VQA
 npm install
 npm start
 ```
