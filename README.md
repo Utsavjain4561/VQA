@@ -9,7 +9,7 @@ See the demo live at http://visualquestionbot.herokuapp.com/
 
 ## About the Demo
 
-The demo web app was made using [create-react-app](https://github.com/facebook/create-react-app).
+The demo web app was made using [create-react-app](https://github.com/facebook/create-react-app) by Utsav Jain.
 
 The demo model uses [TensorFlow.js](https://www.tensorflow.org/js) to run predictions using pre-trained weights directly in the browser.
 
